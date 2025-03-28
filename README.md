@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Edwin Andrés Rangel G
 
-<!--
-**Andres-xrg/Andres-xrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software en formación  
+🚀 Apasionado por PHP, Python, HTML, CSS y JavaScript  
+🎯 Creando proyectos interactivos y responsivos  
 
-Here are some ideas to get you started:
+## 🔥 Tecnologías y herramientas
+- Lenguajes: **PHP, Java, Python, JavaScript**
+- Bases de datos: **MySQL, MariaDB**
+- Frameworks: **Laravel, Bootstrap, React, Django**
+- Otros: **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos Destacados  
+🔹 [Mi Portafolio](mi-portafolio-sigma-six.vercel.app)  
+🔹 [Fortiguard Pagina-Practica](fortiguard.vercel.app) 
+
+## 📫 Contacto  
+📩 edwinandresrangelgomez8@gmail.com  
+🌐 [Mi Portafolio](https://mi-portafolio-sigma-six.vercel.app)  
