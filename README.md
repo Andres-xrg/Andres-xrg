@@ -10,9 +10,6 @@
 - Frameworks: **Laravel, Bootstrap, React, Django**
 - Otros: **Git**
 
-## 🌟 Proyectos Destacados  
-🔹 [Mi Portafolio](mi-portafolio-sigma-six.vercel.app)  
-🔹 [Fortiguard Pagina-Practica](fortiguard.vercel.app) 
 
 ## 📫 Contacto  
 📩 edwinandresrangelgomez8@gmail.com  
