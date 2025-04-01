@@ -8,8 +8,6 @@
 - Lenguajes: **PHP, Java, Python, JavaScript**
 - Bases de datos: **MySQL, MariaDB**
 - Frameworks: **Laravel, Bootstrap, React, Django**
-- Otros: **Git**
-
 
 ## 📫 Contacto  
 📩 edwinandresrangelgomez8@gmail.com  
