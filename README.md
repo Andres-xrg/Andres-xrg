@@ -9,6 +9,6 @@
 - Bases de datos: **MySQL, MariaDB**
 - Frameworks: **Laravel, Bootstrap, React, Django**
 
-## 📫 Contacto  
+# 📫 Contacto  
 📩 edwinandresrangelgomez8@gmail.com  
 🌐 [Mi Portafolio](https://mi-portafolio-sigma-six.vercel.app)  
