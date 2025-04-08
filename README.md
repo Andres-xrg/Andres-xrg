@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Edwin Andrés Rangel G
+# ¡Hola! 👋 Soy Edwin Andrés Rangel 
 
 💻 Desarrollador de software en formación  
 🚀 Aprendiendo PHP, Python, HTML, CSS y JavaScript  
