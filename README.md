@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy Edwin Andrés Rangel 
+## Hello! 👋 I'm Edwin Andrés Rangel
 
-💻 Desarrollador de software en formación  
+💻 Futuro Desarrollador de software  
 🚀 Aprendiendo HTML, CSS, JavaScript, PHP, Python, Java  
-🎯 Creando proyectos interactivos y responsivos  
+🎯 Perfeccionando mis habilidades en desarrollo web constantemente  
 
-## 🔥 Tecnologías y herramientas
+## 🔥 Technologies and tools
 - Lenguajes: **PHP, Java, Python, JavaScript**
 - Bases de datos: **MySQL, MariaDB**
 - Frameworks: **Laravel, Bootstrap, React, Django**
