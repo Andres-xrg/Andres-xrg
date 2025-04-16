@@ -1,7 +1,7 @@
 ## Hello! 👋 I'm Edwin Andrés Rangel
 
 💻 Futuro Desarrollador de software  
-🚀 Aprendiendo HTML, CSS, JavaScript, PHP, Python, Java
+🚀 Aprendiendo HTML, CSS, JavaScript, PHP, Python, Java  
 🎯 Perfeccionando mis habilidades en desarrollo web constantemente  
 
 ## 🔥 Technologies and tools
