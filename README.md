@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/gatito.jpg" alt="Decoración gatito" width="200"/>
-</p>
+
 
 <h1 align="center">👋 ¡Hola! Soy Edwin Andrés R</h1>
 
