@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 ¡Hola! Soy Edwin Andrés </h1>
 
 <p align="center">
