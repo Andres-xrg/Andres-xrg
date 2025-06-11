@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Edwin Andrés </h1>
+<h1 align="center">👋 ¡HI! Soy Edwin Andrés </h1>
 
 <p align="center">
   💻 Futuro Desarrollador de software <br>
