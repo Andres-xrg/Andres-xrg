@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Futuro Desarrollador de software <br>
-  🚀 Aprendiendo <strong>HTML, CSS, JavaScript, PHP, Python, Java</strong> <br>
+  🚀 Aprendiendo constantemente  <strong>JavaScript, PHP, Python, Java</strong> <br>
   🎯 Perfeccionando mis habilidades en desarrollo web constantemente
 </p>
 
@@ -12,7 +12,7 @@
 
 - Lenguajes: **PHP, Java, Python, JavaScript**
 - Bases de datos: **MySQL, MariaDB**
-- Frameworks: **Laravel, Bootstrap, React, Django**
+- Frameworks: **Laravel, Bootstrap, Django**
 
 ---
 
